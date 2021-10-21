@@ -67,7 +67,6 @@ To-do list:
 
 
 
-
 ### Create a GitHub account
 
 
@@ -192,17 +191,8 @@ To-do list:
 
 
 
-
-
-
-
 ### Install Spring Tool Suite (STS)
-
-
-
 * Open the below link in the browser which will download a file name with '.jar' extension.
-
-
 
 `https://download.springsource.com/release/STS4/4.6.2.RELEASE/dist/e4.15/spring-tool-suite-4-4.6.2.RELEASE-e4.15.0-win32.win32.x86_64.self-extracting.jar`
 
